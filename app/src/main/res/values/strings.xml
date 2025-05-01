@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista de Itens</string>
+    <string name="imagem_do_item">Imagem do item</string>
+    <string name="item">Item</string>
+    <string name="descri_o">Descrição</string>
+    <string name="r_0_00">R$ 0,00</string>
+    <string name="adicionar">Adicionar</string>
+</resources>
